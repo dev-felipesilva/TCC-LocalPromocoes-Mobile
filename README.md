@@ -6,7 +6,7 @@ Este é o repositório do aplicativo mobile desenvolvido para o meu Trabalho de 
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- **Front-end:** [React Native](https://reactnative.dev/) com [Expo](https://expo.dev/)
+- **Front-end:** [React Native](https://reactnative.dev/) com [ExpoGo](https://expo.dev/) para exibição
 - **Linguagem:** JavaScript
 - **Back-end (Serverless):** [Google Firebase](https://firebase.google.com/)
 - **Banco de Dados:** Cloud Firestore
